@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\AdditionCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FD5A68F-83FE-4E80-A442-8B4C1040BF80}|AdditionCalculator\\AdditionCalculator.csproj|c:\\users\\lenovo\\source\\repos\\additioncalculator\\additioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD5A68F-83FE-4E80-A442-8B4C1040BF80}|AdditionCalculator\\AdditionCalculator.csproj|solutionrelative:additioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{866B4314-584F-623D-9B24-39F46348EB57}|AdditionCalculator\\AdditionCalculator.csproj|c:\\users\\lenovo\\source\\repos\\additioncalculator\\additioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866B4314-584F-623D-9B24-39F46348EB57}|AdditionCalculator\\AdditionCalculator.csproj|solutionrelative:additioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "AdditionCalculator\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdditionCalculator\\AdditionCalculator\\Program.cs",
               "RelativeToolTip": "AdditionCalculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T07:51:00.981Z",
               "EditorCaption": ""
